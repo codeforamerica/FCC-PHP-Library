@@ -1,0 +1,8 @@
+# FCC Developer API in PHP
+
+## Examples
+
+Read through the documentation of the methods in lib/fcc.class.php 
+for more on the specifics of the methods.
+
+See example.php for examples on how to set up a connection and fetch results.
